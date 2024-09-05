@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/ScorchChamp/Image_Compression/main/README/logo.png)
+![Logo](https://raw.githubusercontent.com/Kboateng346/OptiComp/main/README/logo.png)
 
 
 # OptiComp:
